@@ -1,0 +1,10 @@
+export const MAP = {
+  IMG_WIDTH: 80,
+  IMG_HEIGHT: 100,
+  MOVE_LEFT: 37,
+  MOVE_DOWN: 38,
+  MOVE_RIGHT: 39,
+  MOVE_UP: 40,
+  SPEED: 4,
+  CHAR_FRAME: 8,
+};
